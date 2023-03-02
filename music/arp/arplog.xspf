@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="0" xmlns = "http://xspf.org/ns/0/">
+  <trackList>
+   <track>
+    <location>http://ianvarley.com/music/arp/ARP2_01_2007-01-31.mp3</location>
+    <image>http://www.droptrio.com/Friends/Ian/Arp/download_mp3.gif</image>
+    <annotation>Garnet</annotation>
+   </track>
+   <track>
+    <location>http://www.droptrio.com/Friends/Ian/Arp/02_TAFH_01_2006-02-19.mp3</location>
+    <image>http://www.droptrio.com/Friends/Ian/Arp/download_mp3.gif</image>
+    <annotation>Trumpet And French Horn</annotation>
+   </track>
+   <track>
+    <location>http://www.droptrio.com/Friends/Ian/Arp/01_MarimbaRoll_14_2006-01-18.mp3</location>
+    <image>http://www.droptrio.com/Friends/Ian/Arp/download_mp3.gif</image>
+    <annotation>Retrograde Amnesia</annotation>
+   </track>
+   <track>
+    <location>http://www.droptrio.com/Friends/Ian/Arp/01_MarimbaRoll_13_2006-01-18.mp3</location>
+    <image>http://www.droptrio.com/Friends/Ian/Arp/download_mp3.gif</image>
+    <annotation>Anterograde Amnesia</annotation>
+   </track>
+   <track>
+    <location>http://www.droptrio.com/Friends/Ian/Arp/01_MarimbaRoll_12_2006-01-14.mp3</location>
+    <image>http://www.droptrio.com/Friends/Ian/Arp/download_mp3.gif</image>
+    <annotation>Altostratus</annotation>
+   </track>
+   <track>
+    <location>http://www.droptrio.com/Friends/Ian/Arp/01_MarimbaRoll_11_2006-01-14.mp3</location>
+    <image>http://www.droptrio.com/Friends/Ian/Arp/download_mp3.gif</image>
+    <annotation>Bloom, Wither</annotation>
+   </track>
+   <track>
+    <location>http://www.droptrio.com/Friends/Ian/Arp/01_MarimbaRoll_10_2006-01-10.mp3</location>
+    <image>http://www.droptrio.com/Friends/Ian/Arp/download_mp3.gif</image>
+    <annotation>Marufo Vega Loop</annotation>
+   </track>
+   <track>
+    <location>http://www.droptrio.com/Friends/Ian/Arp/01_MarimbaRoll_09_2006-01-09.mp3</location>
+    <image>http://www.droptrio.com/Friends/Ian/Arp/download_mp3.gif</image>
+    <annotation>Simultaneity</annotation>
+   </track>
+   <track>
+    <location>http://www.droptrio.com/Friends/Ian/Arp/01_MarimbaRoll_08_2006-01-09.mp3</location>
+    <image>http://www.droptrio.com/Friends/Ian/Arp/download_mp3.gif</image>
+    <annotation>Snowflake Set</annotation>
+   </track>
+   <track>
+    <location>http://www.droptrio.com/Friends/Ian/Arp/01_MarimbaRoll_07_2006-01-07.mp3</location>
+    <image>http://www.droptrio.com/Friends/Ian/Arp/download_mp3.gif</image>
+    <annotation>Daniel's Lament</annotation>
+   </track>
+   <track>
+    <location>http://www.droptrio.com/Friends/Ian/Arp/01_MarimbaRoll_06_2006-01-05.mp3</location>
+    <image>http://www.droptrio.com/Friends/Ian/Arp/download_mp3.gif</image>
+    <annotation>Sonus Diei</annotation>
+   </track>
+   <track>
+    <location>http://www.droptrio.com/Friends/Ian/Arp/01_MarimbaRoll_05_2006-01-02.mp3</location>
+    <image>http://www.droptrio.com/Friends/Ian/Arp/download_mp3.gif</image>
+    <annotation>My One</annotation>
+   </track>
+   <track>
+    <location>http://www.droptrio.com/Friends/Ian/Arp/01_MarimbaRoll_04_2006-01-01.mp3</location>
+    <image>http://www.droptrio.com/Friends/Ian/Arp/download_mp3.gif</image>
+    <annotation>akkt</annotation>
+   </track>
+   <track>
+    <location>http://www.droptrio.com/Friends/Ian/Arp/01_MarimbaRoll_03_2006-01-03.mp3</location>
+    <image>http://www.droptrio.com/Friends/Ian/Arp/download_mp3.gif</image>
+    <annotation>Schemhamphoras</annotation>
+   </track>
+   <track>
+    <location>http://www.droptrio.com/Friends/Ian/Arp/01_MarimbaRoll_02_2005-12-29.mp3</location>
+    <image>http://www.droptrio.com/Friends/Ian/Arp/download_mp3.gif</image>
+    <annotation>Federation Aeronautique</annotation>
+   </track>
+   <track>
+    <location>http://www.droptrio.com/Friends/Ian/Arp/01_MarimbaRoll_2005-12-06_Norm.mp3</location>
+    <image>http://www.droptrio.com/Friends/Ian/Arp/download_mp3.gif</image>
+    <annotation>Giant In The Abyss</annotation>
+   </track>
+  </trackList>
+</playlist>
